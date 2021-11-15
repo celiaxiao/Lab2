@@ -1,0 +1,3 @@
+[submodule "saltfish"]
+	path = saltfish
+	url = https://github.com/celiaxiao/saltfish.git
